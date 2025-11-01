@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pawan</h1>
-<h3 align="center">A passionate Frontend & AI Developer from India 🇮🇳</h3>
+<h3 align="center">Your Friendly Neighbourhood Dev</h3>
 
 ---
 
@@ -9,7 +9,6 @@
 - 👯 I’m looking to collaborate on **AI-driven Web Apps**
 - 💬 Ask me about **React, Tailwind, Python, Node.js, Firebase, and ML tools**
 - 📫 How to reach me: **pawaneswaran19012006@gmail.com**
-- ⚡ Fun fact: *I debug faster with coffee ☕ and music 🎧*
 
 ---
 
@@ -26,7 +25,7 @@
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+
 
 #### ⚙️ Backend & Databases:
 ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white)
@@ -36,7 +35,6 @@
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
 #### 🧬 AI / ML Tools:
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
