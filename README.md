@@ -48,17 +48,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pawan-19012006&show_icons=true&theme=tokyonight" alt="Pawan's GitHub stats" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pawan-19012006&theme=tokyonight" alt="GitHub Streak" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pawan-19012006&layout=compact&theme=tokyonight" alt="Top Languages" height="160"/>
-</p>
-
 ### 🌐 Connect With Me
 <p align="left">
 <a href="https://www.linkedin.com/in/pawan-eswaran-9ab4a130b/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
