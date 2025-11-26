@@ -59,15 +59,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pawan-19012006&layout=compact&theme=tokyonight" alt="Top Languages" height="160"/>
 </p>
 
----
-
-### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pawan-19012006&theme=radical&no-frame=true&margin-w=15" />
-</p>
-
----
-
 ### 🌐 Connect With Me
 <p align="left">
 <a href="https://www.linkedin.com/in/pawan-eswaran-9ab4a130b/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
