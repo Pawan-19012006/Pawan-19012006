@@ -4,7 +4,7 @@
 ---
 
 ### 🌟 About Me
--  I’m currently working on **Advanced Quantitative Analysis**
+-  I’m currently working on **Building Ai Applications**
 -  I’m currently learning **Machine Learning, Deep Learning, and Backend APIs**
 -  I’m looking to collaborate on **AI-driven Web Apps**
 -  Ask me about **React, Tailwind, Python, Node.js, Firebase, and ML tools**
