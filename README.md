@@ -4,10 +4,10 @@
 ---
 
 ### 🌟 About Me
--  I’m currently working on **Building Ai Applications**
--  I’m currently learning **Machine Learning, Deep Learning, and Backend APIs**
--  I’m looking to collaborate on **AI-driven Web Apps**
--  Ask me about **React, Tailwind, Python, Node.js, Firebase, and ML tools**
+-  I’m currently working on **Java and Springboot based Applications**
+-  I’m currently learning **SpringBoot, Microservices, Postgresql**
+-  I’m looking to collaborate on **Java Based Applications**
+-  Ask me about **Java, React, MySql, SpringBoot, Node and Express js**
 -  How to reach me: **pawaneswaran19012006@gmail.com**
 
 ---
@@ -34,17 +34,11 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
-#### 🧬 AI / ML Tools:
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-003366?style=for-the-badge)
 
 #### ☁️ DevOps & Tools:
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
