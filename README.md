@@ -8,7 +8,7 @@
 -  I’m currently learning **SpringBoot, Microservices, Postgresql**
 -  I’m looking to collaborate on **Java Based Applications**
 -  Ask me about **Java, React, MySql, SpringBoot, Node and Express js**
--  How to reach me: **pawaneswaran19012006@gmail.com**
+-  How to reach me: **pawaneswaran19@gmail.com**
 
 ---
 
