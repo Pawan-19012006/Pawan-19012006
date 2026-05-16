@@ -5,9 +5,9 @@
 
 ### 🌟 About Me
 -  I’m currently working on **Java and Springboot based Applications**
--  I’m currently learning **SpringBoot, Microservices, Postgresql**
--  I’m looking to collaborate on **Java Based Applications**
--  Ask me about **Java, React, MySql, SpringBoot, Node and Express js**
+-  I’m currently learning **Data Engineering, Model Training and Springboot**
+-  I’m looking to collaborate on **AI Based Applications**
+-  Ask me about **Java, AIML, React, MySql, SpringBoot, Node and Express js**
 -  How to reach me: **pawaneswaran19@gmail.com**
 
 ---
