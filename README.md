@@ -9,6 +9,7 @@
 -  I’m looking to collaborate on **AI Based Applications**
 -  Ask me about **Java, AIML, React, MySql, SpringBoot, Node and Express js**
 -  How to reach me: **pawaneswaran19@gmail.com**
+-  Wanna know more about me, visit my portfolio: https://pawan-eswaran.vercel.app/
 
 ---
 
