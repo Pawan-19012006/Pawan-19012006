@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Pawan</h1>
-<h3 align="center">Your Friendly Neighbourhood Dev 💻</h3>
-
----
+<h1 align="center">Hey 👋 I'm Pawan</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FFD700&center=true&vCenter=true&width=800&lines=AI+Engineer;Building+Intelligent+Systems;Python+%7C+Java+%7C+AIML;Learning+LLMs+and+AI+Agents" />
+</p>
 
 ### 🌟 About Me
 -  I’m currently working on **Java and Springboot based Applications**
