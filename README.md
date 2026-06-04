@@ -4,7 +4,7 @@
 </p>
 
 ### 🌟 About Me
--  I’m currently working on **Machine Learning and Deep Learning Applications **
+-  I’m currently working on **Machine Learning and Deep Learning Applications**
 -  I’m currently learning **Data Science, Model Training and Pytorch**
 -  I’m looking to collaborate on **AI Based Applications**
 -  Ask me about **Java, AIML, Python, MySql, SpringBoot**
