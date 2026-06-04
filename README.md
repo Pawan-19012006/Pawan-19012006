@@ -4,10 +4,10 @@
 </p>
 
 ### 🌟 About Me
--  I’m currently working on **Java and Springboot based Applications**
--  I’m currently learning **Data Engineering, Model Training and Springboot**
+-  I’m currently working on **Machine Learning and Deep Learning Applications **
+-  I’m currently learning **Data Science, Model Training and Pytorch**
 -  I’m looking to collaborate on **AI Based Applications**
--  Ask me about **Java, AIML, React, MySql, SpringBoot, Node and Express js**
+-  Ask me about **Java, AIML, Python, MySql, SpringBoot**
 -  How to reach me: **pawaneswaran19@gmail.com**
 -  Wanna know more about me, visit my portfolio: https://pawan-eswaran.vercel.app/
 
